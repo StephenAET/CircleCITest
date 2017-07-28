@@ -7,7 +7,7 @@
 
 general:
     artifacts:
-        - D:\GIT-StephenAET\CircleCITest\circleCITest\app\build\outputs\apk\
+        - D:\GIT-StephenAET\CircleCITest\app\build\outputs\apk\
 
 machine:
     environment:
